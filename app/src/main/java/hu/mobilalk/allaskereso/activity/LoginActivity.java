@@ -56,11 +56,11 @@ public class LoginActivity extends AppCompatActivity {
 
         firebaseAuth.signInWithEmailAndPassword(email, password)
                 .addOnSuccessListener(success ->{
-                    Log.d(LOG_TAG, "Successful login (e-mail and password)");
+                    Log.d(LOG_TAG, "Successful login");
                     launchOffers();
                 })
                 .addOnFailureListener(fail -> {
-                    Log.d(LOG_TAG, "Login failed (e-mail and password)");
+                    Log.d(LOG_TAG, "Login failed");
                     Toast.makeText(LoginActivity.this, "A bejelentkezés sikertelen. Kérlek, próbáld meg újra!", Toast.LENGTH_LONG).show();
                 });
     }
