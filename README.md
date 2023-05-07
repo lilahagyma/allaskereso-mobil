@@ -14,7 +14,7 @@ Készítettem egy pontozási segédletet, hogy ne tartson örökké a projekt po
 A szempontok a táblázaton megy végig sorban. Értelemszerűen a szubjektív részét kihagytam belőle.
 
 1. Fordítási hibával nem találkoztam, de azért figyeld te is.
-2. Fordítási hibával nem találkoztam, de azért figyeld te is.
+2. Futtatási hibával nem találkoztam, de azért figyeld te is.
 3. Meg van valósítva, lehet regisztrálni is, és bejelentkezni is.
 4. Az adatmodellt a hu.mobilalk.allaskereso package-ben a model mappában találod.
 5. Activityből van 3 darab
