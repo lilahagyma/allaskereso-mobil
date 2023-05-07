@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Allaskereso</string>
+    <string name="email_text">E-mail cím</string>
+    <string name="password_text">Jelszó</string>
+    <string name="login_text">Bejelentkezés</string>
+    <string name="register_text">Regisztráció</string>
+    <string name="app_login_text">Álláskereső bejelentkezés</string>
+    <string name="app_register_text">Álláskereső regisztráció</string>
+    <string name="password_again_text">Jelszó mégegyszer</string>
+    <string name="back_text">Vissza</string>
+</resources>

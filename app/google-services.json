@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114249341836",
+    "project_id": "allaskereso-5bd68",
+    "storage_bucket": "allaskereso-5bd68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114249341836:android:89c30f3982bc86ab4a14a9",
+        "android_client_info": {
+          "package_name": "hu.mobilalk.allaskereso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114249341836-fg21iob8f2gthb728ae255oj47c3sqcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPaBHjpn9NWTU3eFeEQLG5dtZZB6iEXJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114249341836-fg21iob8f2gthb728ae255oj47c3sqcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
